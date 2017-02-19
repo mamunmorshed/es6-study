@@ -10,3 +10,7 @@ letPractice();
 import {constPractice} from './const.js';
 constPractice();
 //-----------------------------------------------------------------------------
+import {templatePractice} from './template.js';
+templatePractice();
+//-----------------------------------------------------------------------------
+
