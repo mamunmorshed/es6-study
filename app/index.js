@@ -13,4 +13,7 @@ constPractice();
 import {templatePractice} from './template.js';
 templatePractice();
 //-----------------------------------------------------------------------------
+import {spreadOperatorPractice} from './spread-operator.js';
+spreadOperatorPractice();
+//-----------------------------------------------------------------------------
 
