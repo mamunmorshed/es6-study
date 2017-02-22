@@ -17,4 +17,4 @@ export let spreadOperatorPractice = function () {
     // let z = [...w, 4, 5, ...x];
     // soFunc(...z);
 
-}
+};
